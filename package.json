@@ -1,0 +1,22 @@
+{
+  "name": "vuejs-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniloaleixo/vuejs-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniloaleixo/vuejs-study/issues"
+  },
+  "homepage": "https://github.com/daniloaleixo/vuejs-study#readme",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
